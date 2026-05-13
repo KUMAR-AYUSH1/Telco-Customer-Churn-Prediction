@@ -4,15 +4,12 @@ on:
     push:
         branches:
             - main
-
     pull_request:
-
     workflow_dispatch:
 
 jobs:
     drift:
         runs-on: ubuntu-latest
-
         steps:
             - name: Checkout Repository
               uses: actions/checkout@v4
@@ -25,14 +22,9 @@ jobs:
             - name: Install Dependencies
               run: |
                   python -m pip install --upgrade pip
-
-                  if [ -f test_requirements.txt ]; then
-                    pip install -r test_requirements.txt
-                  fi
-
+                  if [ -f test_requirements.txt ]; then pip install -r test_requirements.txt; fi
                   pip install jupyter nbconvert ipykernel
-
-            - name: Execute try.ipynb
+            - name: Execute and Convert Notebook
               run: |
                   jupyter nbconvert \
                     --to notebook \
@@ -40,19 +32,13 @@ jobs:
                     --output executed_try.ipynb \
                     --ExecutePreprocessor.timeout=600
 
-            - name: Upload Executed Notebook
+                  jupyter nbconvert \
+                    --to html \
+                    executed_try.ipynb \
+                    --output report.html
+
+            - name: Upload Report
               uses: actions/upload-artifact@v4
               with:
-                  name: executed-notebook
-                  path: executed_try.ipynb
-
-            - name: PR Comment
-              if: github.event_name == 'pull_request'
-              uses: mshick/add-pr-comment@v2
-              with:
-                  message: |
-                      ## 📊 Drift Monitoring Results
-
-                      ✅ try.ipynb executed successfully.
-
-                      Download the executed notebook from the workflow artifacts.
+                  name: drift-report
+                  path: report.html
