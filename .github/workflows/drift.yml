@@ -32,32 +32,19 @@ jobs:
 
                   pip install jupyter nbconvert ipykernel
 
-            - name: Create Output Folder
-              run: mkdir executed_notebooks
-
-            - name: Run drift.ipynb
-              run: |
-                  jupyter nbconvert \
-                    --to notebook \
-                    --execute drift.ipynb \
-                    --output executed_drift.ipynb \
-                    --output-dir executed_notebooks \
-                    --ExecutePreprocessor.timeout=600
-
-            - name: Run try.ipynb
+            - name: Execute try.ipynb
               run: |
                   jupyter nbconvert \
                     --to notebook \
                     --execute try.ipynb \
                     --output executed_try.ipynb \
-                    --output-dir executed_notebooks \
                     --ExecutePreprocessor.timeout=600
 
-            - name: Upload Executed Notebooks
+            - name: Upload Executed Notebook
               uses: actions/upload-artifact@v4
               with:
-                  name: executed-notebooks
-                  path: executed_notebooks/
+                  name: executed-notebook
+                  path: executed_try.ipynb
 
             - name: PR Comment
               if: github.event_name == 'pull_request'
@@ -66,12 +53,6 @@ jobs:
                   message: |
                       ## 📊 Drift Monitoring Results
 
-                      ✅ Notebook execution completed successfully.
+                      ✅ try.ipynb executed successfully.
 
-                      Executed notebooks were generated and uploaded as workflow artifacts.
-
-                      Included notebooks:
-                      - drift.ipynb
-                      - try.ipynb
-
-                      Check the **Artifacts** section in this workflow run to download results.
+                      Download the executed notebook from the workflow artifacts.
