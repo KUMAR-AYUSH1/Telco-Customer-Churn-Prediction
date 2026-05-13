@@ -1,0 +1,43 @@
+name: "DRIFT IN DATA AND MODEL CHECK"
+
+on:
+    push:
+        branches:
+            - main
+    pull_request:
+    workflow_dispatch:
+
+jobs:
+    drift:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Setup Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
+
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install jupytext
+                  if [ -f test_requirements.txt ]; then pip install -r test_requirements.txt; fi
+
+            - name: Run Notebook
+              id: run_notebook
+              run: |
+                  jupytext --execute --to notebook try.ipynb 
+                  echo "DRIFT CHECK PASSED"
+
+            - name: Post Results to PR Comment
+              uses: mshick/add-pr-comment@v2
+              if: github.event_name == 'pull_request'
+              with:
+                  message: |
+                      ### 📊 Notebook Execution Results
+                      The workflow executed successfully. Review the structural changes in the repository file viewer.
+
+                      ### 📊 Data Drift Results
+                      Validation passed successfully.
