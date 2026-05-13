@@ -1,0 +1,1001 @@
+Partner,SeniorCitizen,InternetService,PaymentMethod,PaperlessBilling,MonthlyCharges,StreamingMovies,DeviceProtection,Contract,tenure,Dependents,Churn
+True,False,DSL,Mailed check,False,58.85,True,True,Month-to-month,7,True,False
+False,False,DSL,Electronic check,True,74.4,True,True,Month-to-month,4,False,True
+False,False,DSL,Bank transfer (automatic),True,30.85,False,False,Month-to-month,13,False,False
+True,True,Fiber optic,Credit card (automatic),True,104.4,True,True,One year,61,False,True
+False,False,No,Mailed check,False,20.5,False,False,Two year,32,True,False
+False,False,DSL,Mailed check,False,70.7,True,False,Month-to-month,3,True,False
+False,True,Fiber optic,Electronic check,True,96.2,True,False,Month-to-month,49,False,True
+False,False,DSL,Electronic check,True,34.7,True,False,Month-to-month,2,False,True
+False,False,No,Bank transfer (automatic),True,19.25,False,False,One year,36,False,False
+True,True,Fiber optic,Mailed check,False,77.9,False,False,Month-to-month,30,False,False
+False,False,Fiber optic,Electronic check,True,84.45,False,False,Month-to-month,12,False,True
+False,False,Fiber optic,Credit card (automatic),True,100.85,True,False,Month-to-month,45,False,True
+True,False,Fiber optic,Electronic check,True,99.15,True,True,Two year,72,False,False
+False,True,Fiber optic,Electronic check,True,101.1,True,True,Month-to-month,37,False,True
+False,False,DSL,Electronic check,True,49.9,False,False,Month-to-month,1,False,False
+True,False,DSL,Bank transfer (automatic),True,80.85,False,True,Two year,72,True,False
+True,False,DSL,Mailed check,True,73.9,True,True,One year,33,True,True
+False,False,DSL,Credit card (automatic),False,35.8,False,False,Two year,37,False,False
+True,True,Fiber optic,Electronic check,True,94.25,True,True,Month-to-month,34,False,True
+False,True,DSL,Electronic check,True,34.7,True,False,Month-to-month,10,False,True
+False,False,Fiber optic,Electronic check,True,91.4,False,True,Month-to-month,2,False,True
+False,False,Fiber optic,Credit card (automatic),True,95.6,True,True,Month-to-month,16,False,True
+True,False,DSL,Bank transfer (automatic),False,92.0,True,True,Two year,72,False,False
+False,False,Fiber optic,Bank transfer (automatic),False,78.1,True,False,Month-to-month,12,False,True
+False,False,DSL,Credit card (automatic),False,65.6,False,True,One year,15,True,False
+True,False,No,Mailed check,False,20.25,False,False,Month-to-month,7,True,False
+False,False,No,Mailed check,False,19.75,False,False,Two year,16,False,False
+False,False,DSL,Credit card (automatic),True,81.8,True,True,Two year,56,False,False
+False,True,Fiber optic,Bank transfer (automatic),True,79.75,True,False,Month-to-month,2,False,True
+True,False,Fiber optic,Electronic check,True,84.45,False,False,Month-to-month,29,False,True
+False,False,Fiber optic,Electronic check,True,79.6,True,False,Month-to-month,1,True,True
+False,False,DSL,Electronic check,False,61.55,False,False,One year,26,False,False
+True,False,No,Bank transfer (automatic),True,19.95,False,False,Two year,63,False,False
+True,False,DSL,Bank transfer (automatic),False,56.25,False,False,Month-to-month,44,True,False
+False,False,DSL,Credit card (automatic),True,50.2,False,False,Month-to-month,2,False,False
+False,False,No,Mailed check,False,20.35,False,False,Month-to-month,2,False,True
+True,True,Fiber optic,Mailed check,True,98.3,False,True,One year,61,False,False
+False,False,Fiber optic,Credit card (automatic),False,90.45,True,False,One year,63,False,False
+True,True,DSL,Electronic check,False,40.2,False,False,Month-to-month,1,False,True
+True,True,No,Bank transfer (automatic),False,19.5,False,False,One year,68,True,False
+True,False,Fiber optic,Electronic check,True,115.55,True,True,Two year,72,False,False
+True,True,Fiber optic,Credit card (automatic),True,100.05,True,False,Month-to-month,66,False,True
+True,False,DSL,Bank transfer (automatic),False,69.85,False,True,Two year,72,True,False
+False,True,Fiber optic,Electronic check,True,85.7,False,False,Month-to-month,1,False,True
+False,False,DSL,Mailed check,True,55.8,False,True,Month-to-month,5,False,False
+True,False,Fiber optic,Credit card (automatic),False,109.55,True,True,Two year,72,True,False
+True,False,DSL,Credit card (automatic),True,66.5,False,True,Two year,72,True,False
+True,False,Fiber optic,Electronic check,True,99.4,True,False,Two year,72,False,False
+False,False,DSL,Credit card (automatic),False,51.75,False,False,Month-to-month,4,False,True
+False,True,Fiber optic,Electronic check,True,104.85,True,True,Month-to-month,14,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,103.7,True,True,Month-to-month,49,False,True
+True,False,DSL,Electronic check,True,90.15,True,True,One year,55,False,False
+True,False,DSL,Credit card (automatic),False,50.55,False,False,One year,67,True,False
+False,False,No,Credit card (automatic),False,19.75,False,False,Month-to-month,10,False,False
+False,True,Fiber optic,Electronic check,True,75.75,False,False,Month-to-month,8,False,True
+False,False,DSL,Electronic check,False,50.55,False,False,Month-to-month,1,False,True
+True,True,Fiber optic,Electronic check,False,79.2,False,True,Month-to-month,2,False,True
+True,False,DSL,Mailed check,True,60.2,True,False,Month-to-month,29,True,False
+True,True,Fiber optic,Mailed check,True,109.55,True,True,One year,43,False,True
+True,False,No,Bank transfer (automatic),False,20.45,False,False,Two year,62,True,False
+True,False,DSL,Electronic check,True,48.55,True,False,Month-to-month,4,False,True
+False,False,No,Credit card (automatic),False,20.05,False,False,One year,11,False,False
+True,False,DSL,Mailed check,False,56.8,False,False,Two year,55,False,False
+True,True,Fiber optic,Electronic check,True,73.55,False,False,Month-to-month,1,False,True
+False,True,Fiber optic,Electronic check,False,104.75,True,True,Month-to-month,56,False,False
+True,False,No,Bank transfer (automatic),False,19.65,False,False,Month-to-month,30,False,True
+False,False,DSL,Mailed check,False,40.25,False,False,One year,10,True,False
+True,False,Fiber optic,Electronic check,True,75.5,False,False,Month-to-month,25,True,False
+False,False,No,Mailed check,False,19.85,False,False,Month-to-month,9,False,False
+True,False,No,Mailed check,True,19.25,False,False,Month-to-month,11,True,True
+True,False,Fiber optic,Electronic check,True,100.25,True,False,Month-to-month,10,True,True
+False,False,Fiber optic,Electronic check,False,105.3,True,True,Month-to-month,5,False,False
+True,False,Fiber optic,Credit card (automatic),True,99.45,True,True,Month-to-month,69,True,True
+False,True,Fiber optic,Credit card (automatic),True,79.2,False,False,Month-to-month,40,False,True
+False,False,No,Bank transfer (automatic),False,24.9,False,False,Two year,50,False,False
+False,False,DSL,Electronic check,True,71.95,True,False,Month-to-month,13,False,False
+True,False,DSL,Bank transfer (automatic),False,64.75,False,False,Two year,72,False,False
+False,True,Fiber optic,Electronic check,True,94.45,True,False,Month-to-month,16,False,True
+True,False,Fiber optic,Mailed check,True,82.05,True,False,One year,48,True,True
+True,False,DSL,Bank transfer (automatic),False,51.0,True,True,One year,45,True,False
+True,False,Fiber optic,Credit card (automatic),True,84.65,False,False,Two year,63,False,False
+True,False,Fiber optic,Electronic check,True,107.25,True,False,One year,56,False,False
+False,False,Fiber optic,Electronic check,True,95.25,True,True,Month-to-month,10,False,False
+False,False,Fiber optic,Electronic check,True,103.65,True,True,Month-to-month,38,False,False
+False,False,No,Mailed check,False,24.2,False,False,Two year,63,False,False
+True,True,DSL,Mailed check,False,40.05,True,False,Month-to-month,22,True,True
+True,False,No,Bank transfer (automatic),False,19.8,False,False,One year,12,True,True
+False,False,DSL,Electronic check,True,39.3,False,False,Month-to-month,57,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,106.6,True,False,One year,67,True,False
+True,False,Fiber optic,Credit card (automatic),False,105.95,True,True,Month-to-month,50,True,True
+False,False,Fiber optic,Electronic check,True,80.45,False,True,Month-to-month,14,False,True
+False,True,Fiber optic,Credit card (automatic),True,94.45,True,True,Month-to-month,8,False,True
+False,True,DSL,Electronic check,True,30.4,False,True,Month-to-month,2,False,True
+True,True,Fiber optic,Electronic check,False,80.35,False,False,Month-to-month,47,False,True
+False,False,No,Credit card (automatic),True,19.65,False,False,Month-to-month,5,False,False
+True,False,Fiber optic,Bank transfer (automatic),True,97.7,True,False,Month-to-month,34,True,False
+False,True,Fiber optic,Electronic check,True,99.45,True,True,Month-to-month,12,False,True
+True,True,DSL,Credit card (automatic),True,40.65,True,True,Month-to-month,24,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,82.85,True,False,One year,28,True,False
+False,False,No,Mailed check,False,20.8,False,False,Month-to-month,1,False,False
+True,False,DSL,Mailed check,True,57.75,False,False,One year,23,True,False
+True,False,DSL,Bank transfer (automatic),True,87.1,True,True,Two year,72,False,False
+True,True,DSL,Electronic check,True,60.05,False,False,One year,53,False,True
+False,False,Fiber optic,Electronic check,False,84.3,False,False,Month-to-month,1,False,True
+False,True,Fiber optic,Electronic check,True,69.85,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Electronic check,True,86.55,True,False,Month-to-month,8,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,94.85,True,True,One year,53,False,True
+True,False,Fiber optic,Electronic check,True,100.95,True,False,One year,19,True,True
+False,False,Fiber optic,Electronic check,True,79.75,False,False,Month-to-month,15,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,74.6,False,False,Month-to-month,49,False,False
+False,False,No,Credit card (automatic),True,19.55,False,False,Two year,65,False,False
+False,False,DSL,Mailed check,False,74.3,False,True,One year,25,False,True
+False,False,Fiber optic,Mailed check,False,95.65,True,False,Month-to-month,1,False,True
+False,False,Fiber optic,Electronic check,False,90.55,True,False,Month-to-month,1,False,True
+True,False,DSL,Electronic check,False,30.2,False,False,Month-to-month,1,True,True
+True,True,Fiber optic,Credit card (automatic),True,105.4,True,True,One year,67,False,False
+True,True,Fiber optic,Bank transfer (automatic),True,100.4,True,False,Month-to-month,58,False,False
+True,False,Fiber optic,Electronic check,True,109.55,True,True,Month-to-month,47,False,True
+True,False,Fiber optic,Electronic check,True,70.35,False,False,Month-to-month,2,False,False
+True,False,Fiber optic,Electronic check,True,69.25,False,False,Month-to-month,22,False,True
+False,False,Fiber optic,Electronic check,True,103.45,True,True,Month-to-month,39,False,True
+True,False,No,Electronic check,True,19.75,False,False,Two year,41,False,False
+False,False,Fiber optic,Electronic check,True,69.9,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Electronic check,True,89.95,False,False,Month-to-month,14,False,True
+False,False,DSL,Mailed check,True,46.0,False,False,Month-to-month,4,False,True
+False,False,DSL,Electronic check,True,49.3,False,False,Month-to-month,1,False,False
+False,False,DSL,Credit card (automatic),False,48.55,False,False,Month-to-month,11,False,True
+False,True,Fiber optic,Mailed check,True,75.45,False,False,Month-to-month,2,False,True
+True,False,Fiber optic,Bank transfer (automatic),False,79.7,False,True,Month-to-month,2,False,True
+False,False,Fiber optic,Credit card (automatic),True,79.55,False,False,Month-to-month,12,False,False
+True,False,Fiber optic,Bank transfer (automatic),False,110.3,True,False,Two year,64,True,False
+True,False,Fiber optic,Electronic check,True,83.0,False,False,One year,68,True,True
+False,False,DSL,Electronic check,False,43.9,False,False,Two year,67,False,False
+False,False,Fiber optic,Mailed check,True,84.3,False,True,Month-to-month,26,False,False
+True,False,Fiber optic,Credit card (automatic),True,69.05,False,False,Two year,55,True,False
+True,False,DSL,Mailed check,False,50.05,False,False,Month-to-month,4,False,True
+True,False,DSL,Mailed check,True,50.0,False,True,Month-to-month,30,False,False
+False,True,DSL,Electronic check,True,39.65,True,True,Month-to-month,1,False,True
+False,False,Fiber optic,Mailed check,False,75.0,False,False,Month-to-month,3,False,True
+False,False,Fiber optic,Electronic check,True,109.65,True,False,Two year,50,False,True
+False,False,Fiber optic,Credit card (automatic),True,80.05,False,False,Month-to-month,14,False,False
+True,False,DSL,Mailed check,False,29.2,False,False,Month-to-month,12,True,True
+True,False,No,Mailed check,False,24.9,False,False,Two year,72,True,False
+False,False,Fiber optic,Electronic check,True,106.6,True,True,Two year,61,False,True
+False,False,Fiber optic,Electronic check,True,94.2,True,False,Month-to-month,12,False,True
+True,True,Fiber optic,Electronic check,True,105.9,True,True,Month-to-month,60,False,False
+True,False,Fiber optic,Electronic check,True,94.45,True,True,Month-to-month,5,False,True
+True,False,DSL,Electronic check,True,39.2,True,False,Month-to-month,49,True,False
+False,False,DSL,Mailed check,False,29.9,False,False,Month-to-month,1,False,False
+True,False,No,Mailed check,True,19.55,False,False,Month-to-month,31,True,True
+True,False,Fiber optic,Credit card (automatic),False,100.35,True,True,One year,58,False,False
+True,True,Fiber optic,Electronic check,True,89.8,True,True,Month-to-month,10,False,True
+False,False,DSL,Electronic check,True,29.6,False,False,Month-to-month,3,False,True
+False,True,DSL,Electronic check,False,59.4,False,False,Month-to-month,16,False,True
+False,True,DSL,Electronic check,True,39.85,False,True,Month-to-month,35,False,False
+False,False,Fiber optic,Electronic check,True,88.7,False,True,Month-to-month,20,False,True
+False,False,Fiber optic,Credit card (automatic),False,70.35,False,False,Two year,50,True,False
+False,False,Fiber optic,Bank transfer (automatic),True,98.9,True,False,Month-to-month,12,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,108.25,True,True,Month-to-month,53,True,False
+True,False,Fiber optic,Electronic check,True,94.65,False,True,One year,46,False,False
+True,False,Fiber optic,Bank transfer (automatic),True,104.4,True,False,One year,64,True,False
+False,False,DSL,Bank transfer (automatic),True,46.3,True,False,Month-to-month,53,False,False
+True,False,DSL,Bank transfer (automatic),False,68.25,True,False,Two year,16,True,False
+True,False,DSL,Bank transfer (automatic),False,35.4,False,False,Month-to-month,31,True,True
+False,False,Fiber optic,Mailed check,False,95.5,True,True,One year,12,False,True
+False,False,Fiber optic,Electronic check,True,79.15,False,False,Month-to-month,23,False,True
+False,True,Fiber optic,Electronic check,True,94.25,True,False,Month-to-month,21,False,True
+True,False,Fiber optic,Electronic check,True,89.55,False,True,One year,39,True,True
+True,False,Fiber optic,Bank transfer (automatic),True,95.95,True,True,Month-to-month,45,True,False
+True,False,Fiber optic,Electronic check,False,80.85,False,False,Month-to-month,17,True,True
+True,False,Fiber optic,Bank transfer (automatic),True,112.55,True,True,Two year,69,False,False
+True,False,Fiber optic,Electronic check,True,98.25,True,False,One year,56,False,True
+False,False,DSL,Mailed check,True,50.15,False,False,Month-to-month,3,False,False
+True,False,Fiber optic,Bank transfer (automatic),True,106.15,True,True,Month-to-month,42,False,True
+True,False,No,Bank transfer (automatic),False,21.0,False,False,Two year,72,True,False
+False,False,Fiber optic,Electronic check,True,95.5,True,False,Month-to-month,9,False,True
+True,True,Fiber optic,Credit card (automatic),True,107.15,True,True,One year,68,True,False
+True,False,No,Bank transfer (automatic),True,26.25,False,False,Two year,72,True,False
+False,False,DSL,Bank transfer (automatic),False,29.85,False,False,Month-to-month,2,False,True
+False,False,Fiber optic,Mailed check,True,79.65,False,False,Month-to-month,2,False,True
+False,False,DSL,Electronic check,False,49.35,False,False,Month-to-month,4,True,True
+False,False,Fiber optic,Electronic check,True,105.9,True,True,Month-to-month,60,False,True
+True,False,No,Bank transfer (automatic),True,24.05,False,False,Two year,54,True,False
+True,False,DSL,Bank transfer (automatic),False,30.5,False,False,Month-to-month,1,True,True
+True,False,Fiber optic,Bank transfer (automatic),False,98.6,True,True,One year,17,True,True
+True,False,Fiber optic,Credit card (automatic),True,96.95,False,False,Month-to-month,56,True,False
+True,True,DSL,Credit card (automatic),True,49.25,False,False,Month-to-month,1,True,True
+False,False,Fiber optic,Electronic check,True,93.35,True,False,Month-to-month,15,False,True
+False,False,Fiber optic,Mailed check,True,80.85,True,False,Month-to-month,1,False,True
+True,False,Fiber optic,Electronic check,True,105.5,True,True,Month-to-month,65,True,True
+True,False,Fiber optic,Credit card (automatic),True,99.55,True,False,Month-to-month,32,True,True
+False,False,DSL,Credit card (automatic),True,46.0,False,False,Month-to-month,2,False,True
+True,False,Fiber optic,Bank transfer (automatic),False,83.15,False,True,One year,24,True,False
+True,False,DSL,Electronic check,True,84.5,True,True,Two year,57,True,False
+False,False,No,Credit card (automatic),True,20.65,False,False,One year,26,False,False
+False,False,DSL,Electronic check,False,55.3,False,False,Month-to-month,16,False,False
+True,True,Fiber optic,Bank transfer (automatic),True,110.75,True,True,Month-to-month,43,True,True
+False,False,Fiber optic,Electronic check,True,106.5,False,True,Month-to-month,41,False,False
+True,False,No,Bank transfer (automatic),False,25.15,False,False,Two year,70,False,False
+True,False,DSL,Bank transfer (automatic),False,57.55,False,False,Two year,55,True,True
+False,False,DSL,Electronic check,False,50.8,False,False,Month-to-month,1,False,True
+True,True,Fiber optic,Electronic check,True,74.2,False,True,Month-to-month,2,False,False
+False,False,Fiber optic,Electronic check,True,70.0,False,False,Month-to-month,10,False,True
+False,False,DSL,Electronic check,False,44.15,True,True,One year,43,False,False
+True,False,Fiber optic,Credit card (automatic),True,80.3,False,True,Month-to-month,63,True,False
+False,False,Fiber optic,Electronic check,True,96.6,True,False,Month-to-month,3,False,True
+True,False,DSL,Mailed check,True,55.3,False,False,Month-to-month,9,True,False
+True,False,DSL,Mailed check,True,61.05,False,False,Two year,33,False,False
+False,False,Fiber optic,Credit card (automatic),True,84.75,False,True,Month-to-month,31,False,False
+True,False,DSL,Mailed check,False,44.3,False,False,Month-to-month,3,True,True
+False,False,Fiber optic,Bank transfer (automatic),False,90.4,False,True,One year,30,False,False
+True,True,Fiber optic,Electronic check,True,112.4,True,True,Two year,72,False,False
+True,False,No,Bank transfer (automatic),False,19.95,False,False,Two year,68,True,False
+True,False,DSL,Electronic check,True,60.45,True,True,One year,53,False,True
+False,False,Fiber optic,Electronic check,True,70.1,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Bank transfer (automatic),False,69.75,False,False,Month-to-month,1,True,True
+False,False,Fiber optic,Credit card (automatic),True,79.05,False,False,One year,71,False,False
+False,False,Fiber optic,Electronic check,True,70.7,False,False,Month-to-month,2,False,True
+False,False,DSL,Mailed check,False,38.25,False,True,Two year,46,False,False
+False,False,Fiber optic,Credit card (automatic),True,69.8,False,False,Month-to-month,2,False,True
+False,True,Fiber optic,Credit card (automatic),True,75.3,False,False,Month-to-month,15,False,True
+False,False,Fiber optic,Electronic check,True,74.9,False,False,Month-to-month,6,False,True
+True,False,Fiber optic,Electronic check,False,83.8,False,True,Month-to-month,23,True,True
+False,False,DSL,Bank transfer (automatic),False,56.75,True,True,Two year,22,False,False
+False,False,Fiber optic,Bank transfer (automatic),False,69.0,False,False,Month-to-month,15,True,True
+False,False,No,Bank transfer (automatic),False,20.65,False,False,Month-to-month,5,False,False
+False,False,DSL,Mailed check,False,40.0,False,True,Month-to-month,5,False,True
+False,False,Fiber optic,Electronic check,True,85.15,False,True,One year,35,True,True
+False,False,DSL,Electronic check,True,50.75,True,True,Month-to-month,14,False,True
+False,False,DSL,Mailed check,True,49.7,False,True,Month-to-month,24,False,False
+False,False,DSL,Credit card (automatic),True,58.6,False,False,One year,39,False,False
+False,False,No,Mailed check,True,19.6,False,False,Two year,27,False,False
+False,False,DSL,Bank transfer (automatic),True,49.05,True,True,Month-to-month,43,False,True
+False,False,DSL,Electronic check,False,55.35,False,False,Month-to-month,9,True,True
+False,False,Fiber optic,Electronic check,False,79.6,True,False,Month-to-month,1,False,True
+False,True,Fiber optic,Electronic check,True,75.75,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,108.2,True,True,Month-to-month,20,False,False
+True,False,Fiber optic,Electronic check,True,88.85,True,False,Month-to-month,10,True,False
+False,False,DSL,Bank transfer (automatic),False,53.95,False,True,Two year,71,False,False
+False,True,Fiber optic,Electronic check,False,89.5,True,False,Month-to-month,2,False,True
+False,False,Fiber optic,Electronic check,False,69.95,False,False,Month-to-month,1,False,True
+True,False,Fiber optic,Electronic check,True,95.25,True,False,Month-to-month,37,True,False
+False,False,DSL,Electronic check,True,67.25,False,False,Month-to-month,12,False,False
+True,False,DSL,Mailed check,False,55.95,False,False,Month-to-month,18,True,False
+True,False,DSL,Credit card (automatic),True,60.8,True,True,One year,69,False,False
+True,True,DSL,Electronic check,True,29.9,False,True,Month-to-month,4,False,False
+False,False,No,Bank transfer (automatic),False,19.4,False,False,Month-to-month,15,False,True
+True,False,DSL,Electronic check,True,59.55,True,True,Two year,67,True,False
+False,False,Fiber optic,Electronic check,True,76.95,False,False,Month-to-month,3,False,True
+True,True,Fiber optic,Electronic check,True,98.5,True,True,Month-to-month,25,False,True
+True,False,Fiber optic,Electronic check,True,70.0,False,False,Month-to-month,1,True,True
+True,False,No,Mailed check,False,19.85,False,False,Two year,7,True,False
+True,False,No,Bank transfer (automatic),False,20.05,False,False,Two year,72,False,False
+False,False,No,Mailed check,True,24.85,False,False,One year,41,False,False
+True,False,DSL,Credit card (automatic),True,69.5,False,False,Month-to-month,23,True,False
+True,False,Fiber optic,Electronic check,True,104.3,True,True,Month-to-month,54,False,True
+False,False,Fiber optic,Mailed check,True,70.45,False,False,Month-to-month,1,True,True
+True,False,Fiber optic,Electronic check,True,77.75,False,True,Month-to-month,55,False,True
+True,False,No,Bank transfer (automatic),False,19.5,False,False,One year,41,True,False
+False,False,Fiber optic,Electronic check,True,90.25,True,False,Month-to-month,30,False,True
+True,False,Fiber optic,Credit card (automatic),True,105.0,True,True,Month-to-month,66,False,True
+False,False,Fiber optic,Electronic check,True,74.2,False,False,Month-to-month,29,False,False
+False,False,Fiber optic,Electronic check,True,70.15,False,False,Month-to-month,2,False,False
+False,True,DSL,Mailed check,False,72.1,False,False,One year,54,False,False
+True,True,Fiber optic,Bank transfer (automatic),True,104.05,True,True,Month-to-month,11,False,True
+True,False,Fiber optic,Electronic check,True,99.2,True,True,One year,37,False,True
+False,False,DSL,Bank transfer (automatic),True,88.8,True,True,One year,67,False,False
+True,False,Fiber optic,Electronic check,True,94.75,True,True,Month-to-month,8,True,False
+False,False,No,Mailed check,False,19.4,False,False,Month-to-month,2,False,False
+True,False,Fiber optic,Bank transfer (automatic),False,92.2,True,False,One year,28,True,False
+True,True,Fiber optic,Credit card (automatic),True,109.4,True,True,Month-to-month,65,False,False
+False,False,Fiber optic,Electronic check,False,100.85,True,False,Month-to-month,8,False,True
+True,True,Fiber optic,Electronic check,True,100.75,True,False,One year,65,False,False
+False,False,DSL,Mailed check,True,50.6,False,False,Month-to-month,5,False,True
+True,False,Fiber optic,Mailed check,False,89.15,True,False,Month-to-month,1,True,True
+False,True,Fiber optic,Electronic check,True,93.55,True,False,Month-to-month,1,False,True
+True,False,DSL,Electronic check,False,50.55,True,False,Month-to-month,11,True,False
+False,True,Fiber optic,Mailed check,True,69.05,False,False,Month-to-month,5,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,79.35,False,False,Month-to-month,1,False,True
+True,False,DSL,Credit card (automatic),True,59.05,False,False,Month-to-month,31,False,False
+True,False,DSL,Mailed check,False,77.5,False,False,One year,21,True,True
+True,False,Fiber optic,Electronic check,True,70.1,False,False,Month-to-month,10,False,True
+False,False,No,Bank transfer (automatic),False,26.2,False,False,One year,35,False,False
+False,False,Fiber optic,Mailed check,True,84.3,True,False,Month-to-month,22,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,108.65,True,True,Two year,72,True,False
+False,False,No,Bank transfer (automatic),False,26.0,False,False,Two year,62,True,False
+False,False,DSL,Bank transfer (automatic),False,65.6,False,True,Two year,37,False,False
+False,False,Fiber optic,Electronic check,True,69.1,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Credit card (automatic),True,89.05,True,False,Month-to-month,16,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,91.05,True,True,Month-to-month,32,True,True
+True,False,DSL,Electronic check,True,44.85,False,True,Month-to-month,34,True,False
+True,False,Fiber optic,Electronic check,True,85.95,True,False,Month-to-month,4,True,True
+False,True,DSL,Electronic check,True,45.05,False,False,Month-to-month,17,False,True
+True,False,Fiber optic,Electronic check,True,69.0,False,False,Month-to-month,7,True,True
+False,False,Fiber optic,Electronic check,True,70.05,False,False,Month-to-month,1,False,True
+True,False,DSL,Bank transfer (automatic),True,70.1,True,False,One year,57,True,True
+False,False,No,Mailed check,False,20.25,False,False,Month-to-month,9,False,True
+True,False,No,Credit card (automatic),True,19.45,False,False,Month-to-month,15,False,False
+False,False,DSL,Credit card (automatic),False,36.0,False,False,One year,40,False,False
+False,False,Fiber optic,Electronic check,True,74.15,False,False,Month-to-month,18,False,False
+False,False,Fiber optic,Electronic check,True,106.6,True,True,Month-to-month,19,False,True
+True,False,DSL,Mailed check,True,69.5,True,True,Month-to-month,15,True,False
+True,False,DSL,Mailed check,True,81.3,True,True,Two year,64,False,False
+False,True,Fiber optic,Electronic check,True,98.8,True,False,Month-to-month,55,False,True
+False,False,DSL,Mailed check,False,46.3,False,False,Month-to-month,1,False,True
+False,False,DSL,Mailed check,False,71.1,True,False,Two year,3,False,False
+True,False,DSL,Electronic check,True,49.2,True,True,Two year,72,False,False
+False,False,DSL,Credit card (automatic),True,89.65,True,True,One year,36,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,101.35,True,False,Month-to-month,22,False,True
+False,False,No,Credit card (automatic),False,20.15,False,False,Month-to-month,22,True,False
+False,True,Fiber optic,Electronic check,True,95.35,True,False,Month-to-month,10,False,True
+True,False,Fiber optic,Credit card (automatic),True,78.95,False,True,Month-to-month,37,False,True
+True,False,DSL,Mailed check,False,67.85,True,True,Two year,67,True,False
+False,False,Fiber optic,Mailed check,True,99.0,True,False,Month-to-month,13,False,True
+True,False,Fiber optic,Electronic check,True,113.15,True,True,Two year,68,True,True
+True,False,Fiber optic,Bank transfer (automatic),True,74.25,False,False,One year,66,True,False
+False,False,Fiber optic,Credit card (automatic),True,80.5,False,False,Month-to-month,6,False,True
+False,False,DSL,Electronic check,True,44.1,False,False,Month-to-month,1,False,True
+True,False,Fiber optic,Electronic check,True,69.8,False,False,Month-to-month,1,True,True
+True,False,Fiber optic,Electronic check,True,96.75,False,False,Month-to-month,55,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,109.45,True,True,Two year,58,False,True
+False,False,No,Credit card (automatic),False,23.15,False,False,Month-to-month,11,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,89.15,False,True,Month-to-month,25,True,True
+True,False,Fiber optic,Credit card (automatic),True,85.2,True,False,Month-to-month,8,False,True
+False,True,Fiber optic,Electronic check,True,73.65,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Bank transfer (automatic),False,98.8,True,False,Month-to-month,37,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,109.55,True,True,One year,32,False,False
+False,False,Fiber optic,Electronic check,True,90.45,False,True,Month-to-month,7,False,True
+False,False,No,Mailed check,False,20.65,False,False,Month-to-month,7,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,94.75,False,True,One year,54,False,False
+True,False,Fiber optic,Bank transfer (automatic),False,100.0,True,False,One year,19,True,True
+False,False,Fiber optic,Credit card (automatic),False,75.35,False,False,Month-to-month,35,False,True
+False,False,No,Bank transfer (automatic),False,19.7,False,False,Two year,66,False,False
+True,False,Fiber optic,Credit card (automatic),True,104.5,True,True,Month-to-month,57,False,True
+False,False,DSL,Bank transfer (automatic),True,49.75,False,False,Month-to-month,52,False,False
+True,False,DSL,Mailed check,False,80.9,True,True,One year,21,False,False
+True,False,No,Credit card (automatic),False,25.15,False,False,Two year,70,True,False
+False,False,DSL,Credit card (automatic),True,54.5,False,False,Month-to-month,10,False,False
+True,False,DSL,Bank transfer (automatic),True,85.9,True,True,Two year,66,False,False
+False,False,No,Mailed check,False,20.1,False,False,Month-to-month,2,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,85.65,True,False,Month-to-month,32,False,False
+False,False,DSL,Mailed check,False,50.4,False,False,Month-to-month,4,False,True
+True,False,No,Bank transfer (automatic),False,19.55,False,False,One year,53,True,False
+True,True,DSL,Mailed check,True,36.45,False,False,Month-to-month,3,False,True
+False,True,DSL,Electronic check,True,41.9,False,False,Month-to-month,21,False,True
+True,False,DSL,Credit card (automatic),True,74.55,False,True,Month-to-month,41,True,False
+False,True,Fiber optic,Credit card (automatic),True,83.85,False,True,Month-to-month,33,False,True
+False,True,Fiber optic,Mailed check,True,70.6,False,False,Month-to-month,1,False,False
+False,False,Fiber optic,Credit card (automatic),False,75.2,False,False,Month-to-month,49,True,True
+True,False,DSL,Credit card (automatic),True,65.25,False,False,Month-to-month,58,False,False
+False,False,No,Mailed check,False,19.95,False,False,One year,4,False,False
+False,False,DSL,Electronic check,True,70.75,True,False,Month-to-month,2,False,True
+False,False,DSL,Credit card (automatic),True,43.6,True,True,Two year,62,False,False
+False,False,Fiber optic,Electronic check,False,95.65,True,False,Month-to-month,2,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,89.85,True,False,Month-to-month,35,False,False
+False,True,Fiber optic,Electronic check,True,99.05,True,True,Month-to-month,35,False,True
+False,False,DSL,Bank transfer (automatic),False,87.1,True,True,Two year,54,False,False
+True,False,Fiber optic,Credit card (automatic),False,90.25,True,True,One year,64,True,False
+True,False,Fiber optic,Bank transfer (automatic),True,84.8,False,True,Month-to-month,4,True,True
+False,False,DSL,Mailed check,True,61.65,False,True,Month-to-month,12,False,True
+False,False,No,Credit card (automatic),True,20.85,False,False,Two year,21,False,False
+False,False,DSL,Electronic check,False,64.8,True,False,Month-to-month,18,True,False
+False,False,Fiber optic,Electronic check,True,94.9,True,True,Month-to-month,10,False,True
+False,False,Fiber optic,Electronic check,True,76.25,False,False,Month-to-month,9,False,False
+True,False,DSL,Mailed check,False,56.5,False,False,Month-to-month,4,True,True
+True,False,Fiber optic,Bank transfer (automatic),True,75.75,False,True,Month-to-month,9,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,85.9,True,False,Month-to-month,15,True,True
+False,False,Fiber optic,Electronic check,True,83.3,True,False,Month-to-month,9,False,True
+False,True,Fiber optic,Electronic check,True,89.7,True,False,Month-to-month,25,False,True
+False,False,DSL,Mailed check,False,49.25,False,False,Month-to-month,2,False,False
+True,False,Fiber optic,Credit card (automatic),False,90.0,True,True,Month-to-month,2,True,True
+False,True,Fiber optic,Electronic check,False,101.35,True,True,Month-to-month,8,False,True
+True,False,No,Mailed check,False,19.35,False,False,Month-to-month,5,False,True
+False,False,DSL,Mailed check,True,50.15,False,False,Month-to-month,1,False,False
+True,False,No,Electronic check,False,25.4,False,False,Month-to-month,47,False,False
+False,True,Fiber optic,Electronic check,True,71.0,False,False,Month-to-month,1,True,True
+False,False,DSL,Electronic check,True,45.25,True,False,Month-to-month,2,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,94.25,True,False,One year,53,False,True
+False,False,DSL,Electronic check,True,61.3,False,False,Month-to-month,4,False,False
+True,False,DSL,Bank transfer (automatic),True,81.95,True,True,Two year,69,True,False
+True,False,Fiber optic,Bank transfer (automatic),True,83.55,False,False,Month-to-month,30,True,False
+False,False,Fiber optic,Electronic check,True,84.45,False,True,Month-to-month,13,False,True
+False,False,Fiber optic,Electronic check,False,99.5,True,True,Month-to-month,66,False,True
+False,False,No,Bank transfer (automatic),False,20.85,False,False,One year,22,False,False
+False,False,DSL,Electronic check,False,76.4,True,True,Month-to-month,2,False,True
+True,False,Fiber optic,Electronic check,True,108.4,True,True,Two year,72,False,False
+False,False,Fiber optic,Electronic check,True,78.45,False,False,Month-to-month,31,False,True
+False,False,Fiber optic,Mailed check,False,95.0,True,False,Month-to-month,7,False,True
+True,False,DSL,Electronic check,False,62.65,False,False,Month-to-month,34,False,True
+False,False,DSL,Bank transfer (automatic),True,75.1,False,True,Two year,72,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,69.55,False,False,Month-to-month,3,False,True
+False,False,Fiber optic,Mailed check,True,74.6,False,True,Month-to-month,1,False,True
+False,True,Fiber optic,Credit card (automatic),True,101.4,True,True,Month-to-month,67,False,False
+False,False,Fiber optic,Electronic check,True,69.9,False,False,Month-to-month,1,False,False
+True,False,No,Credit card (automatic),False,19.0,False,False,One year,49,False,False
+True,False,Fiber optic,Electronic check,False,88.25,False,True,Month-to-month,17,True,True
+False,False,Fiber optic,Bank transfer (automatic),True,80.7,False,False,Month-to-month,10,False,True
+True,False,DSL,Bank transfer (automatic),True,54.9,False,False,Month-to-month,44,True,False
+False,False,No,Credit card (automatic),False,19.7,False,False,Two year,27,True,False
+False,True,Fiber optic,Electronic check,True,91.3,False,False,Month-to-month,12,False,True
+True,True,Fiber optic,Electronic check,True,80.45,True,False,Month-to-month,12,False,True
+True,False,DSL,Bank transfer (automatic),False,80.65,True,False,Two year,69,True,False
+False,False,No,Bank transfer (automatic),False,20.15,False,False,One year,18,True,True
+False,True,Fiber optic,Electronic check,True,99.0,True,False,One year,48,False,False
+True,False,No,Mailed check,True,23.6,False,False,Month-to-month,3,False,False
+True,False,No,Credit card (automatic),False,20.55,False,False,Two year,61,True,False
+True,True,Fiber optic,Mailed check,True,92.5,False,True,Month-to-month,10,False,True
+True,True,Fiber optic,Electronic check,True,84.0,True,False,Month-to-month,8,False,True
+False,False,Fiber optic,Electronic check,True,83.55,False,False,Month-to-month,17,False,False
+False,True,Fiber optic,Electronic check,True,79.15,False,False,Month-to-month,20,False,True
+True,False,No,Mailed check,False,19.65,False,False,One year,1,True,False
+False,False,Fiber optic,Mailed check,True,74.3,False,False,Month-to-month,1,False,False
+False,False,Fiber optic,Electronic check,True,81.0,False,True,Month-to-month,23,False,True
+False,False,No,Electronic check,True,20.25,False,False,Month-to-month,3,False,False
+False,False,Fiber optic,Electronic check,False,75.05,False,False,Month-to-month,10,False,False
+False,False,Fiber optic,Credit card (automatic),True,85.3,True,True,Month-to-month,9,False,False
+True,False,Fiber optic,Bank transfer (automatic),True,85.5,False,False,One year,68,True,False
+False,False,Fiber optic,Electronic check,False,89.4,False,True,Month-to-month,13,False,True
+True,True,Fiber optic,Mailed check,False,88.4,True,False,One year,44,False,True
+False,True,Fiber optic,Electronic check,True,85.0,True,True,Month-to-month,1,False,True
+False,False,No,Bank transfer (automatic),True,19.3,False,False,One year,16,True,False
+True,False,DSL,Electronic check,True,80.1,True,False,One year,59,False,False
+False,False,Fiber optic,Mailed check,True,70.15,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Electronic check,True,95.9,True,False,Month-to-month,25,True,True
+True,False,No,Bank transfer (automatic),False,26.3,False,False,Two year,48,True,False
+False,True,Fiber optic,Bank transfer (automatic),True,100.15,True,True,One year,45,False,False
+False,False,No,Mailed check,False,24.7,False,False,Month-to-month,21,True,False
+True,False,No,Mailed check,False,19.6,False,False,Two year,71,False,False
+False,False,DSL,Credit card (automatic),True,81.5,True,True,Two year,69,False,False
+False,False,Fiber optic,Credit card (automatic),True,76.0,False,False,One year,22,False,False
+True,True,Fiber optic,Electronic check,True,101.9,True,False,Month-to-month,53,False,True
+False,False,DSL,Credit card (automatic),True,76.9,False,True,Two year,71,True,False
+False,False,Fiber optic,Electronic check,True,75.7,False,False,Month-to-month,1,False,True
+True,False,Fiber optic,Electronic check,True,74.7,False,False,Month-to-month,1,True,True
+True,False,DSL,Credit card (automatic),False,53.3,False,True,Two year,45,False,False
+False,False,No,Credit card (automatic),False,25.05,False,False,One year,48,False,False
+False,True,Fiber optic,Mailed check,True,102.8,True,False,Month-to-month,25,False,True
+False,False,DSL,Credit card (automatic),True,34.7,False,False,Month-to-month,9,False,True
+False,False,No,Mailed check,False,20.2,False,False,Month-to-month,1,False,False
+False,False,Fiber optic,Electronic check,True,70.3,False,False,Month-to-month,1,False,True
+False,False,No,Bank transfer (automatic),False,20.15,False,False,One year,23,False,False
+False,False,Fiber optic,Electronic check,True,85.35,False,False,Month-to-month,9,False,True
+False,False,No,Mailed check,False,19.85,False,False,Month-to-month,3,False,True
+True,False,No,Bank transfer (automatic),False,25.4,False,False,Two year,68,True,False
+False,False,DSL,Electronic check,True,56.25,True,False,Month-to-month,1,False,True
+False,True,Fiber optic,Electronic check,True,84.65,False,False,Month-to-month,42,False,True
+False,False,Fiber optic,Electronic check,False,80.55,False,True,Month-to-month,9,False,False
+True,False,Fiber optic,Credit card (automatic),True,108.75,True,True,Two year,67,True,True
+False,False,Fiber optic,Electronic check,True,74.95,False,False,Month-to-month,23,False,True
+False,False,Fiber optic,Electronic check,True,100.0,True,False,One year,43,False,True
+True,False,DSL,Credit card (automatic),False,59.45,True,False,One year,55,True,False
+False,False,Fiber optic,Electronic check,True,79.8,False,True,Month-to-month,13,False,True
+True,False,DSL,Electronic check,False,67.6,False,True,Month-to-month,30,True,False
+True,False,DSL,Mailed check,False,65.0,False,True,Month-to-month,9,True,True
+False,False,DSL,Mailed check,True,45.05,False,False,Month-to-month,1,False,True
+True,True,Fiber optic,Bank transfer (automatic),True,71.8,False,False,Month-to-month,16,False,True
+True,False,DSL,Credit card (automatic),False,73.5,False,False,Two year,71,False,False
+False,False,Fiber optic,Electronic check,False,78.45,False,False,Month-to-month,4,False,True
+True,False,Fiber optic,Electronic check,True,104.15,True,True,One year,55,False,True
+False,False,No,Electronic check,False,19.65,False,False,One year,13,False,False
+True,False,DSL,Credit card (automatic),True,54.15,False,False,One year,45,True,True
+True,False,DSL,Bank transfer (automatic),True,54.55,True,True,Month-to-month,55,False,True
+True,False,Fiber optic,Electronic check,False,85.9,False,False,Month-to-month,25,True,False
+True,True,DSL,Bank transfer (automatic),False,51.65,False,False,Month-to-month,55,False,False
+True,False,DSL,Credit card (automatic),True,85.9,True,True,Two year,72,True,False
+True,False,Fiber optic,Electronic check,True,80.25,False,False,Month-to-month,41,False,False
+False,False,No,Credit card (automatic),False,19.65,False,False,One year,52,True,False
+False,False,Fiber optic,Electronic check,True,96.65,False,False,Month-to-month,13,False,True
+False,False,No,Mailed check,False,19.85,False,False,Month-to-month,3,False,False
+False,True,Fiber optic,Electronic check,True,78.55,False,True,Month-to-month,2,False,True
+False,False,Fiber optic,Credit card (automatic),True,106.95,True,True,One year,53,False,True
+False,False,DSL,Electronic check,True,70.05,True,True,Month-to-month,5,False,True
+False,True,No,Credit card (automatic),True,20.0,False,False,Two year,68,False,False
+False,False,Fiber optic,Credit card (automatic),True,84.25,False,True,Month-to-month,38,False,True
+False,False,DSL,Electronic check,True,45.65,False,False,Month-to-month,1,False,True
+False,True,Fiber optic,Bank transfer (automatic),False,103.0,True,True,One year,49,False,False
+True,False,Fiber optic,Credit card (automatic),False,114.3,True,True,Two year,70,False,False
+False,True,Fiber optic,Electronic check,False,85.0,True,False,Month-to-month,46,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,107.6,True,True,Two year,62,False,False
+True,False,Fiber optic,Electronic check,False,94.4,False,True,Month-to-month,17,True,True
+False,False,No,Mailed check,False,19.55,False,False,One year,17,False,False
+False,False,Fiber optic,Credit card (automatic),True,85.55,False,True,Month-to-month,1,False,True
+False,False,DSL,Mailed check,False,66.25,False,False,Month-to-month,9,False,True
+False,False,Fiber optic,Electronic check,True,75.7,False,False,Month-to-month,2,False,True
+False,False,DSL,Bank transfer (automatic),True,68.85,True,True,Month-to-month,29,False,True
+True,False,Fiber optic,Mailed check,False,105.95,True,False,One year,14,False,True
+False,False,Fiber optic,Electronic check,True,94.6,True,False,Month-to-month,24,False,False
+False,False,Fiber optic,Credit card (automatic),False,116.2,True,True,Two year,67,False,True
+False,False,Fiber optic,Electronic check,True,85.65,False,False,Month-to-month,4,False,True
+True,False,DSL,Credit card (automatic),True,58.6,True,True,Month-to-month,25,True,True
+False,False,No,Mailed check,False,20.05,False,False,Month-to-month,1,True,False
+False,False,DSL,Mailed check,True,51.0,True,False,Month-to-month,5,False,True
+False,False,DSL,Electronic check,True,69.35,True,False,Month-to-month,3,False,True
+False,False,DSL,Mailed check,True,44.15,False,False,Month-to-month,1,False,True
+False,False,DSL,Credit card (automatic),False,39.7,False,True,Two year,50,False,False
+False,False,DSL,Mailed check,False,43.95,False,False,Month-to-month,1,False,True
+True,False,DSL,Bank transfer (automatic),False,55.0,False,False,Month-to-month,46,False,False
+True,False,No,Bank transfer (automatic),True,19.45,False,False,One year,33,True,False
+True,False,Fiber optic,Electronic check,True,105.25,True,True,One year,53,True,False
+True,False,Fiber optic,Electronic check,True,102.55,True,True,Month-to-month,17,False,False
+True,False,Fiber optic,Bank transfer (automatic),True,105.7,True,True,One year,71,False,False
+False,False,DSL,Electronic check,True,30.6,False,False,Month-to-month,29,False,True
+True,False,No,Bank transfer (automatic),False,20.15,False,False,Month-to-month,8,False,True
+True,False,Fiber optic,Electronic check,False,94.1,False,True,Month-to-month,13,False,True
+True,False,No,Electronic check,True,21.0,False,False,Month-to-month,1,True,True
+False,False,Fiber optic,Electronic check,False,100.55,True,False,Month-to-month,44,False,True
+False,False,Fiber optic,Electronic check,True,100.4,True,True,Month-to-month,7,False,False
+False,False,DSL,Electronic check,True,44.8,False,False,Month-to-month,48,False,False
+True,False,Fiber optic,Electronic check,True,84.8,False,False,Month-to-month,1,False,True
+True,False,DSL,Bank transfer (automatic),True,74.8,True,False,Two year,65,True,True
+False,False,DSL,Electronic check,True,45.6,False,False,Month-to-month,1,False,True
+False,False,DSL,Mailed check,True,36.0,False,False,Month-to-month,21,False,False
+False,False,No,Bank transfer (automatic),True,19.25,False,False,Month-to-month,1,False,False
+True,False,No,Mailed check,False,24.2,False,False,Two year,24,True,False
+False,False,Fiber optic,Electronic check,True,100.75,True,True,Month-to-month,11,False,True
+True,False,DSL,Mailed check,True,75.3,True,True,One year,13,False,True
+False,False,DSL,Electronic check,False,45.15,False,False,Month-to-month,9,False,True
+False,False,Fiber optic,Electronic check,False,84.95,False,False,Month-to-month,8,False,True
+True,False,No,Credit card (automatic),False,19.8,False,False,One year,37,True,False
+False,False,DSL,Bank transfer (automatic),False,60.15,True,True,One year,51,True,False
+False,False,DSL,Mailed check,True,44.4,False,False,Month-to-month,9,False,False
+True,False,Fiber optic,Credit card (automatic),True,90.4,False,True,Month-to-month,49,True,False
+False,False,DSL,Credit card (automatic),True,55.5,False,False,Month-to-month,14,False,False
+False,False,Fiber optic,Electronic check,True,80.65,False,False,Month-to-month,2,False,True
+False,True,DSL,Mailed check,True,45.75,False,False,Month-to-month,7,True,False
+True,False,Fiber optic,Electronic check,True,79.75,True,False,Month-to-month,9,False,False
+False,False,Fiber optic,Mailed check,True,74.15,False,False,Month-to-month,10,False,True
+False,True,Fiber optic,Electronic check,True,110.45,True,True,Month-to-month,33,False,True
+False,False,Fiber optic,Electronic check,True,99.5,True,True,Month-to-month,25,False,True
+False,False,Fiber optic,Electronic check,True,90.0,False,False,Month-to-month,22,False,True
+True,False,Fiber optic,Credit card (automatic),True,97.7,True,False,Two year,72,False,False
+False,False,Fiber optic,Electronic check,True,89.5,True,False,Month-to-month,10,False,True
+True,False,No,Electronic check,False,20.25,False,False,Two year,42,False,False
+False,False,No,Mailed check,False,19.5,False,False,One year,20,False,False
+False,False,Fiber optic,Credit card (automatic),True,86.55,False,False,Month-to-month,31,True,True
+False,True,Fiber optic,Electronic check,True,78.95,False,False,Month-to-month,14,False,True
+False,False,DSL,Credit card (automatic),True,62.55,False,False,One year,45,False,False
+False,True,Fiber optic,Electronic check,True,69.7,False,False,Month-to-month,8,False,True
+False,False,DSL,Electronic check,True,49.1,False,False,Month-to-month,15,False,True
+False,True,Fiber optic,Electronic check,True,74.7,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,84.8,False,True,Month-to-month,44,False,True
+True,True,Fiber optic,Electronic check,True,98.85,True,True,Month-to-month,46,False,False
+True,False,Fiber optic,Electronic check,True,85.6,True,False,Month-to-month,18,True,False
+True,False,DSL,Bank transfer (automatic),True,84.2,True,True,Two year,72,True,False
+False,False,No,Mailed check,False,20.2,False,False,Month-to-month,6,False,False
+True,False,DSL,Electronic check,True,76.2,False,False,Month-to-month,13,False,False
+True,False,Fiber optic,Electronic check,True,104.8,True,True,Month-to-month,28,False,True
+False,False,DSL,Electronic check,True,45.15,False,False,Month-to-month,2,False,True
+False,False,Fiber optic,Electronic check,True,74.75,False,False,Month-to-month,9,False,True
+False,True,Fiber optic,Electronic check,True,74.4,False,False,Month-to-month,32,False,True
+False,False,Fiber optic,Credit card (automatic),True,110.0,True,True,One year,65,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,104.8,True,True,One year,36,False,False
+True,True,Fiber optic,Mailed check,True,79.65,False,True,Month-to-month,30,False,True
+False,False,No,Electronic check,False,19.25,False,False,Month-to-month,7,False,True
+False,False,Fiber optic,Credit card (automatic),False,98.3,True,True,Month-to-month,9,False,True
+False,False,Fiber optic,Electronic check,True,104.7,True,True,Month-to-month,41,False,True
+False,False,Fiber optic,Mailed check,False,103.85,True,True,Month-to-month,21,False,False
+False,False,No,Bank transfer (automatic),False,20.95,False,False,Month-to-month,4,False,True
+True,False,DSL,Electronic check,True,68.4,True,False,One year,58,False,False
+True,True,Fiber optic,Electronic check,True,98.7,True,True,Month-to-month,58,False,True
+False,False,Fiber optic,Electronic check,True,80.95,True,False,Month-to-month,2,False,True
+False,False,No,Mailed check,False,20.85,False,False,Two year,8,False,False
+False,True,Fiber optic,Electronic check,True,77.0,False,False,Month-to-month,3,False,True
+True,False,DSL,Electronic check,True,50.25,False,False,Month-to-month,42,False,True
+True,False,DSL,Electronic check,True,73.0,True,True,One year,41,False,True
+False,False,DSL,Credit card (automatic),True,72.15,True,False,Month-to-month,10,False,True
+True,True,Fiber optic,Electronic check,True,94.95,True,False,Month-to-month,19,False,False
+False,False,Fiber optic,Credit card (automatic),True,105.65,True,False,One year,64,False,True
+False,False,Fiber optic,Electronic check,False,102.0,True,False,One year,62,False,True
+False,False,Fiber optic,Electronic check,True,74.75,False,False,Month-to-month,10,False,True
+False,False,Fiber optic,Electronic check,False,93.85,True,False,Month-to-month,17,False,True
+True,False,No,Bank transfer (automatic),True,19.55,False,False,Month-to-month,28,True,False
+False,False,No,Credit card (automatic),False,19.65,False,False,Two year,54,False,False
+True,False,Fiber optic,Electronic check,True,104.3,True,True,One year,62,False,False
+True,False,DSL,Electronic check,False,50.35,False,False,Month-to-month,6,False,False
+True,True,Fiber optic,Electronic check,True,109.1,True,True,Month-to-month,52,False,False
+False,False,DSL,Electronic check,True,74.65,True,False,Month-to-month,9,False,True
+False,False,Fiber optic,Electronic check,True,105.1,True,True,Month-to-month,34,False,False
+False,False,Fiber optic,Credit card (automatic),True,90.1,False,True,One year,50,False,False
+False,False,Fiber optic,Electronic check,False,76.4,False,False,Month-to-month,11,False,False
+False,False,Fiber optic,Electronic check,True,79.15,False,False,Month-to-month,1,False,True
+False,False,No,Mailed check,False,20.65,False,False,Month-to-month,2,False,True
+True,False,Fiber optic,Electronic check,True,93.8,True,True,One year,33,True,True
+True,False,Fiber optic,Credit card (automatic),True,110.6,True,True,Two year,72,False,False
+False,False,No,Bank transfer (automatic),True,19.6,False,False,One year,26,False,False
+True,False,Fiber optic,Electronic check,True,81.1,False,False,Month-to-month,7,False,True
+False,False,DSL,Credit card (automatic),False,78.65,True,True,Month-to-month,6,False,False
+False,False,DSL,Bank transfer (automatic),True,69.5,False,False,Month-to-month,26,False,False
+True,False,Fiber optic,Credit card (automatic),True,95.0,True,True,One year,45,True,False
+False,False,DSL,Electronic check,False,35.9,True,False,Month-to-month,1,False,True
+True,False,Fiber optic,Electronic check,True,80.15,False,False,Month-to-month,5,True,True
+False,False,Fiber optic,Electronic check,False,91.0,True,True,Month-to-month,28,False,False
+False,False,DSL,Credit card (automatic),True,35.2,False,True,One year,43,False,False
+False,False,DSL,Bank transfer (automatic),True,55.7,False,True,Month-to-month,41,False,False
+True,False,DSL,Electronic check,True,54.45,True,False,Month-to-month,13,False,True
+False,True,Fiber optic,Bank transfer (automatic),True,107.4,True,True,Two year,72,False,False
+False,False,Fiber optic,Electronic check,True,75.1,False,False,Month-to-month,1,False,True
+False,False,DSL,Electronic check,False,47.15,False,False,Month-to-month,5,False,True
+False,False,No,Mailed check,False,19.8,False,False,One year,23,True,False
+True,False,Fiber optic,Electronic check,True,95.15,True,False,Month-to-month,25,False,False
+True,False,DSL,Electronic check,True,79.8,True,True,One year,61,False,False
+True,True,Fiber optic,Credit card (automatic),True,96.1,True,True,Month-to-month,62,True,False
+False,False,No,Mailed check,False,19.75,False,False,Month-to-month,1,True,True
+False,False,DSL,Electronic check,True,60.0,False,False,Month-to-month,8,False,False
+True,False,Fiber optic,Bank transfer (automatic),True,85.35,False,False,Month-to-month,9,True,True
+True,False,DSL,Electronic check,False,59.3,True,True,One year,51,True,True
+False,True,DSL,Credit card (automatic),True,70.2,False,False,Two year,64,False,True
+True,False,DSL,Credit card (automatic),False,53.65,True,False,One year,12,True,True
+False,False,No,Credit card (automatic),False,20.4,False,False,Two year,44,False,False
+False,False,Fiber optic,Electronic check,True,80.25,False,False,Month-to-month,2,False,True
+True,False,No,Bank transfer (automatic),False,23.75,False,False,Two year,72,True,False
+False,False,DSL,Mailed check,False,50.9,False,True,Month-to-month,1,False,True
+False,False,Fiber optic,Electronic check,True,110.1,True,True,Month-to-month,10,False,True
+True,False,Fiber optic,Electronic check,False,76.4,False,True,Month-to-month,2,False,True
+True,False,Fiber optic,Bank transfer (automatic),False,99.15,True,False,Two year,69,False,False
+True,True,Fiber optic,Electronic check,False,90.8,False,True,Month-to-month,20,False,True
+True,False,DSL,Electronic check,True,43.95,True,False,Month-to-month,46,False,False
+True,False,DSL,Mailed check,True,81.15,True,True,One year,31,True,False
+True,True,Fiber optic,Bank transfer (automatic),True,110.0,True,True,Two year,60,False,False
+True,False,DSL,Electronic check,False,54.5,False,False,Month-to-month,38,True,False
+True,False,No,Mailed check,True,19.4,False,False,Month-to-month,1,True,False
+False,False,DSL,Bank transfer (automatic),True,60.15,False,False,One year,42,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,74.8,False,True,Month-to-month,4,False,True
+False,False,Fiber optic,Electronic check,True,94.75,True,False,Month-to-month,9,False,True
+True,False,DSL,Electronic check,True,58.35,False,False,One year,24,False,False
+True,False,DSL,Mailed check,False,50.7,False,False,Month-to-month,7,True,False
+False,True,Fiber optic,Mailed check,False,85.5,True,False,Month-to-month,47,False,True
+False,False,Fiber optic,Electronic check,False,78.65,True,False,Month-to-month,1,True,True
+True,False,Fiber optic,Bank transfer (automatic),True,93.7,True,False,Two year,71,False,True
+False,False,Fiber optic,Electronic check,False,75.25,False,False,Month-to-month,3,False,True
+False,False,Fiber optic,Electronic check,True,95.85,True,True,Month-to-month,2,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,105.2,True,False,One year,46,True,True
+False,True,Fiber optic,Electronic check,True,73.9,False,False,Month-to-month,31,False,True
+False,False,DSL,Electronic check,True,47.8,False,False,Month-to-month,2,False,True
+True,False,Fiber optic,Electronic check,True,98.5,True,True,Month-to-month,10,False,True
+False,False,Fiber optic,Electronic check,True,79.0,False,False,Month-to-month,4,False,True
+False,True,Fiber optic,Electronic check,True,69.7,False,False,Month-to-month,8,False,False
+False,False,DSL,Electronic check,True,60.25,False,False,Month-to-month,3,False,False
+False,True,Fiber optic,Electronic check,True,70.15,False,False,Month-to-month,1,False,True
+True,False,DSL,Credit card (automatic),False,29.7,False,False,Month-to-month,3,True,True
+True,False,DSL,Bank transfer (automatic),False,61.4,False,False,Month-to-month,32,True,False
+False,True,Fiber optic,Electronic check,True,106.0,True,True,One year,60,False,True
+False,False,DSL,Electronic check,False,81.7,True,True,One year,27,False,False
+False,True,DSL,Bank transfer (automatic),False,45.25,False,False,Month-to-month,1,False,False
+False,True,DSL,Electronic check,True,54.6,True,True,Month-to-month,33,False,False
+True,False,DSL,Bank transfer (automatic),False,54.5,False,False,Two year,71,False,False
+True,True,Fiber optic,Credit card (automatic),True,85.05,False,False,Month-to-month,16,False,False
+False,False,DSL,Electronic check,True,49.55,False,False,Month-to-month,42,False,False
+True,False,DSL,Electronic check,True,79.2,True,False,Month-to-month,22,False,True
+True,True,Fiber optic,Electronic check,False,74.95,False,False,Month-to-month,4,False,True
+True,False,Fiber optic,Bank transfer (automatic),False,106.55,True,False,One year,54,False,True
+True,True,Fiber optic,Electronic check,False,105.75,True,True,Month-to-month,26,True,True
+False,False,Fiber optic,Mailed check,False,94.5,True,True,Month-to-month,6,True,True
+False,False,DSL,Credit card (automatic),True,55.15,False,False,One year,22,False,True
+False,False,DSL,Electronic check,False,60.85,True,True,Month-to-month,2,False,False
+True,True,Fiber optic,Bank transfer (automatic),True,70.95,False,False,One year,65,False,False
+False,False,Fiber optic,Mailed check,False,107.95,True,True,Month-to-month,3,False,False
+False,False,Fiber optic,Mailed check,True,84.65,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Electronic check,True,98.7,True,True,Month-to-month,3,False,True
+False,False,DSL,Mailed check,False,69.5,False,True,Month-to-month,18,False,False
+True,False,No,Mailed check,False,25.75,False,False,Two year,31,True,False
+False,False,DSL,Credit card (automatic),True,76.9,True,True,One year,68,False,False
+False,False,Fiber optic,Credit card (automatic),True,69.95,False,False,Month-to-month,16,False,False
+False,True,Fiber optic,Electronic check,True,74.4,False,False,Month-to-month,15,False,True
+True,False,DSL,Bank transfer (automatic),False,62.45,False,True,Month-to-month,32,True,False
+False,False,DSL,Credit card (automatic),True,58.6,False,False,Month-to-month,15,False,True
+False,True,DSL,Credit card (automatic),True,70.15,False,True,One year,38,False,True
+False,False,Fiber optic,Credit card (automatic),True,90.55,False,False,Month-to-month,24,False,True
+True,False,DSL,Mailed check,True,55.05,False,False,Month-to-month,37,False,False
+True,False,Fiber optic,Credit card (automatic),True,85.2,False,False,Month-to-month,27,True,False
+False,False,DSL,Bank transfer (automatic),False,86.6,True,True,Two year,72,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,93.4,False,True,Month-to-month,40,False,False
+True,False,DSL,Mailed check,False,65.8,False,False,One year,64,True,False
+False,False,DSL,Credit card (automatic),True,30.5,False,False,Month-to-month,6,False,True
+False,False,Fiber optic,Bank transfer (automatic),False,96.05,True,False,Month-to-month,46,False,True
+False,False,DSL,Mailed check,True,45.3,True,False,Month-to-month,1,False,True
+True,True,Fiber optic,Bank transfer (automatic),True,109.55,True,True,Two year,72,False,False
+False,False,Fiber optic,Bank transfer (automatic),False,107.45,True,True,One year,51,False,False
+True,False,Fiber optic,Bank transfer (automatic),True,104.05,True,True,Two year,53,True,False
+True,True,DSL,Bank transfer (automatic),True,80.55,True,True,Two year,66,False,True
+False,False,Fiber optic,Electronic check,True,89.4,True,True,Month-to-month,12,False,True
+False,False,Fiber optic,Mailed check,True,89.85,False,True,Month-to-month,3,False,False
+True,False,DSL,Mailed check,False,34.6,False,False,Two year,23,True,False
+False,False,DSL,Electronic check,True,44.95,True,False,Month-to-month,23,False,False
+False,False,Fiber optic,Electronic check,False,79.0,False,False,Month-to-month,2,False,True
+True,True,Fiber optic,Electronic check,True,89.95,False,False,Month-to-month,69,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,103.35,True,False,Month-to-month,8,False,True
+True,False,DSL,Bank transfer (automatic),False,80.85,True,True,Two year,72,True,False
+True,False,DSL,Mailed check,True,69.1,True,False,One year,59,False,False
+False,False,Fiber optic,Electronic check,True,99.15,True,False,Month-to-month,36,False,True
+True,True,Fiber optic,Credit card (automatic),True,102.65,True,True,Two year,72,False,False
+False,False,Fiber optic,Credit card (automatic),False,80.8,False,False,Month-to-month,4,True,True
+True,False,Fiber optic,Credit card (automatic),True,102.25,True,True,Month-to-month,13,False,True
+False,True,Fiber optic,Electronic check,True,81.25,False,True,Month-to-month,8,False,True
+False,False,DSL,Credit card (automatic),False,49.0,False,False,Month-to-month,1,False,False
+False,True,Fiber optic,Electronic check,True,99.55,True,False,Month-to-month,38,False,True
+True,True,Fiber optic,Electronic check,True,101.35,True,False,Month-to-month,12,False,True
+True,False,DSL,Electronic check,True,48.75,True,True,Month-to-month,9,False,True
+True,False,Fiber optic,Electronic check,True,99.25,False,True,Month-to-month,23,False,True
+True,False,Fiber optic,Electronic check,True,110.15,True,True,Two year,72,False,False
+True,False,Fiber optic,Electronic check,True,97.95,True,False,Month-to-month,4,True,True
+True,False,DSL,Credit card (automatic),False,80.0,True,True,One year,39,True,True
+True,False,DSL,Mailed check,False,50.85,False,False,Month-to-month,4,True,True
+False,False,Fiber optic,Credit card (automatic),True,94.0,True,True,Month-to-month,15,False,False
+True,True,Fiber optic,Electronic check,True,74.35,False,False,Month-to-month,5,False,True
+False,False,Fiber optic,Electronic check,True,81.1,True,False,Month-to-month,1,False,True
+True,False,Fiber optic,Electronic check,True,90.8,True,False,Month-to-month,26,True,True
+False,False,Fiber optic,Electronic check,True,85.65,True,False,Month-to-month,4,False,True
+True,True,DSL,Credit card (automatic),False,90.05,True,True,Two year,70,False,False
+True,False,Fiber optic,Mailed check,True,100.05,True,False,Two year,59,False,False
+False,False,DSL,Electronic check,True,42.6,True,False,Month-to-month,2,False,True
+False,False,Fiber optic,Electronic check,False,74.0,False,False,Month-to-month,1,False,False
+False,False,Fiber optic,Electronic check,True,79.3,True,False,Month-to-month,7,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,91.85,False,False,Month-to-month,65,False,True
+True,False,DSL,Mailed check,False,50.2,False,False,Month-to-month,43,True,False
+False,False,DSL,Mailed check,True,50.0,False,True,Month-to-month,18,False,False
+False,False,Fiber optic,Mailed check,True,104.05,True,True,Month-to-month,23,False,True
+True,True,Fiber optic,Electronic check,True,75.5,False,False,Month-to-month,27,False,True
+False,True,Fiber optic,Electronic check,True,88.2,False,False,Month-to-month,19,False,True
+True,False,Fiber optic,Credit card (automatic),False,88.6,False,True,Month-to-month,33,True,False
+False,False,No,Credit card (automatic),False,19.6,False,False,Month-to-month,14,False,False
+False,False,Fiber optic,Mailed check,True,79.65,False,False,Month-to-month,7,False,True
+False,True,Fiber optic,Electronic check,True,95.05,False,False,Month-to-month,47,False,True
+True,False,Fiber optic,Mailed check,True,69.9,False,False,Month-to-month,1,True,True
+False,False,No,Credit card (automatic),False,20.0,False,False,Two year,13,False,False
+False,False,DSL,Electronic check,True,29.65,False,True,Month-to-month,4,False,True
+True,False,DSL,Bank transfer (automatic),True,87.55,True,True,Two year,72,True,False
+False,True,Fiber optic,Electronic check,True,72.1,False,False,Month-to-month,1,False,False
+False,False,DSL,Mailed check,True,55.1,False,False,Month-to-month,3,True,True
+False,False,Fiber optic,Electronic check,True,79.55,True,False,Month-to-month,9,False,True
+False,False,DSL,Credit card (automatic),False,50.7,False,False,Month-to-month,4,False,True
+True,True,Fiber optic,Electronic check,True,94.6,True,False,Month-to-month,3,False,True
+False,False,DSL,Electronic check,True,69.65,True,False,Month-to-month,14,False,False
+False,False,Fiber optic,Electronic check,True,74.7,False,False,Month-to-month,1,False,True
+False,False,No,Mailed check,True,25.0,False,False,Month-to-month,1,False,False
+False,False,Fiber optic,Electronic check,False,79.25,False,False,Month-to-month,3,False,True
+False,False,Fiber optic,Electronic check,True,89.35,True,False,Month-to-month,5,False,True
+True,False,Fiber optic,Credit card (automatic),True,105.1,False,True,One year,69,True,False
+False,False,DSL,Electronic check,False,49.4,False,False,Month-to-month,18,False,True
+False,False,DSL,Mailed check,True,45.3,False,False,Month-to-month,1,False,True
+False,False,No,Mailed check,False,20.0,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,105.35,True,True,Month-to-month,3,False,True
+False,True,Fiber optic,Electronic check,True,74.9,False,False,Month-to-month,4,False,True
+False,False,No,Bank transfer (automatic),False,21.0,False,False,Two year,52,False,False
+False,False,DSL,Credit card (automatic),True,54.45,False,True,One year,68,False,False
+False,False,Fiber optic,Mailed check,True,79.1,False,False,Month-to-month,23,False,False
+True,False,DSL,Credit card (automatic),True,61.3,False,True,Two year,56,True,False
+True,True,Fiber optic,Electronic check,True,96.5,True,False,Month-to-month,36,False,True
+False,False,No,Mailed check,True,20.1,False,False,One year,17,False,False
+False,True,Fiber optic,Electronic check,True,78.85,False,False,Month-to-month,4,False,True
+False,False,Fiber optic,Mailed check,True,89.85,False,True,Month-to-month,24,False,True
+False,False,DSL,Credit card (automatic),True,55.0,False,False,Month-to-month,54,True,True
+False,False,DSL,Mailed check,False,49.85,True,True,Two year,12,False,False
+True,False,Fiber optic,Credit card (automatic),True,109.5,True,True,Two year,72,True,False
+False,False,DSL,Mailed check,False,60.1,False,False,Month-to-month,1,False,True
+False,True,Fiber optic,Credit card (automatic),True,108.15,True,False,Month-to-month,43,False,True
+False,False,DSL,Mailed check,True,45.15,False,False,Month-to-month,8,False,True
+False,True,DSL,Bank transfer (automatic),False,66.4,False,True,Month-to-month,2,False,True
+False,False,DSL,Mailed check,True,35.45,False,False,Month-to-month,3,False,True
+True,True,Fiber optic,Electronic check,True,95.55,True,True,Month-to-month,27,False,True
+False,False,Fiber optic,Electronic check,True,79.75,False,False,Month-to-month,2,False,True
+False,False,DSL,Credit card (automatic),False,46.2,False,False,Month-to-month,1,False,True
+True,False,No,Bank transfer (automatic),False,25.0,False,False,Two year,72,True,False
+True,False,DSL,Credit card (automatic),False,51.2,True,False,Month-to-month,30,True,True
+True,True,Fiber optic,Mailed check,True,74.4,False,False,Month-to-month,7,False,True
+False,True,Fiber optic,Electronic check,True,94.1,True,True,Month-to-month,20,False,True
+False,False,Fiber optic,Electronic check,True,94.1,True,False,Month-to-month,24,False,False
+True,False,No,Credit card (automatic),False,25.55,False,False,Two year,53,True,False
+False,False,Fiber optic,Electronic check,True,71.05,False,False,Month-to-month,7,True,False
+False,False,No,Credit card (automatic),False,20.4,False,False,Month-to-month,4,True,False
+True,False,Fiber optic,Electronic check,False,82.4,False,False,Month-to-month,20,False,True
+False,False,Fiber optic,Electronic check,False,95.5,False,True,Month-to-month,35,False,False
+False,False,Fiber optic,Electronic check,True,69.65,False,False,Month-to-month,1,True,True
+True,False,Fiber optic,Electronic check,True,94.2,True,False,Month-to-month,42,True,True
+True,False,DSL,Electronic check,False,84.35,True,True,One year,49,False,True
+False,False,DSL,Mailed check,False,41.9,False,True,Two year,47,False,False
+True,False,No,Credit card (automatic),True,19.8,False,False,Two year,72,True,False
+True,True,No,Credit card (automatic),False,19.8,False,False,Two year,71,True,False
+True,False,Fiber optic,Bank transfer (automatic),True,97.35,False,True,Month-to-month,36,True,True
+False,False,No,Mailed check,False,19.5,False,False,Month-to-month,2,False,False
+False,True,Fiber optic,Electronic check,True,100.6,True,True,Month-to-month,8,False,True
+False,False,Fiber optic,Electronic check,False,70.4,False,False,Month-to-month,4,False,True
+False,False,Fiber optic,Electronic check,True,90.35,True,False,Month-to-month,24,False,True
+True,False,DSL,Credit card (automatic),True,73.5,True,True,Two year,26,False,False
+True,False,No,Mailed check,False,19.2,False,False,Two year,52,True,False
+True,False,Fiber optic,Credit card (automatic),True,102.45,True,True,One year,64,False,False
+True,True,Fiber optic,Bank transfer (automatic),True,95.25,True,True,Month-to-month,57,False,True
+True,False,Fiber optic,Bank transfer (automatic),False,115.15,True,True,Two year,72,False,False
+False,False,DSL,Mailed check,False,51.5,False,False,Month-to-month,17,False,True
+False,False,No,Mailed check,False,20.25,False,False,Month-to-month,2,False,False
+False,True,Fiber optic,Electronic check,True,70.55,False,False,Month-to-month,1,False,True
+True,True,Fiber optic,Bank transfer (automatic),True,100.65,True,True,Month-to-month,56,False,True
+True,False,No,Mailed check,True,24.45,False,False,Two year,56,True,False
+False,False,DSL,Credit card (automatic),False,30.1,False,True,Month-to-month,39,True,True
+False,False,No,Mailed check,False,20.5,False,False,Month-to-month,1,False,True
+False,False,No,Credit card (automatic),True,19.75,False,False,Month-to-month,1,False,False
+True,False,DSL,Credit card (automatic),False,44.45,False,True,One year,17,True,False
+False,False,DSL,Mailed check,True,72.9,True,True,Month-to-month,9,True,True
+False,False,Fiber optic,Credit card (automatic),True,104.0,True,False,Two year,70,False,True
+True,False,Fiber optic,Electronic check,True,83.75,False,False,Month-to-month,26,True,True
+False,False,Fiber optic,Bank transfer (automatic),True,70.45,False,False,One year,38,False,True
+True,True,DSL,Credit card (automatic),True,84.1,True,True,Two year,72,False,False
+True,False,Fiber optic,Electronic check,True,85.15,True,False,Month-to-month,14,False,True
+True,False,Fiber optic,Electronic check,True,94.2,True,True,Month-to-month,8,True,True
+False,True,Fiber optic,Electronic check,True,79.9,False,False,Month-to-month,3,False,True
+False,False,No,Credit card (automatic),False,20.85,False,False,Two year,19,True,False
+False,False,No,Mailed check,False,20.5,False,False,Two year,19,True,False
+False,False,Fiber optic,Electronic check,False,75.25,False,False,Month-to-month,11,False,False
+False,False,Fiber optic,Mailed check,False,80.6,False,True,Month-to-month,2,False,True
+False,False,No,Bank transfer (automatic),False,24.7,False,False,Month-to-month,19,False,False
+True,True,Fiber optic,Electronic check,True,85.15,False,False,Month-to-month,44,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,94.0,True,False,One year,62,False,False
+False,False,No,Bank transfer (automatic),True,19.35,False,False,One year,12,False,False
+False,False,No,Mailed check,True,19.6,False,False,Month-to-month,1,False,True
+True,False,No,Credit card (automatic),True,24.95,False,False,Two year,69,False,False
+False,False,DSL,Credit card (automatic),False,54.15,False,True,Two year,59,False,False
+False,False,Fiber optic,Electronic check,True,100.55,True,False,Month-to-month,14,False,True
+False,False,Fiber optic,Credit card (automatic),True,79.85,False,False,Month-to-month,31,False,True
+False,True,Fiber optic,Credit card (automatic),True,84.4,True,False,Month-to-month,9,False,True
+True,False,Fiber optic,Credit card (automatic),False,115.65,True,True,One year,70,False,True
+True,False,No,Electronic check,False,19.8,False,False,Two year,50,False,False
+False,False,DSL,Credit card (automatic),True,71.0,True,False,One year,29,False,False
+False,False,DSL,Electronic check,True,51.7,True,False,Month-to-month,59,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,99.15,True,False,Month-to-month,21,False,False
+False,False,DSL,Electronic check,False,39.5,True,True,Month-to-month,5,False,True
+True,False,Fiber optic,Bank transfer (automatic),False,105.75,True,True,One year,40,False,False
+False,False,Fiber optic,Electronic check,True,96.0,True,False,Month-to-month,2,False,True
+False,True,Fiber optic,Credit card (automatic),True,102.95,True,True,Month-to-month,24,False,True
+False,False,DSL,Electronic check,True,44.55,False,False,Month-to-month,12,True,True
+True,True,Fiber optic,Credit card (automatic),False,71.55,False,False,Month-to-month,34,False,False
+True,False,Fiber optic,Electronic check,True,86.5,True,False,Month-to-month,21,False,True
+True,False,Fiber optic,Electronic check,True,94.1,True,False,Month-to-month,43,False,False
+True,False,No,Bank transfer (automatic),False,24.25,False,False,Two year,69,False,False
+False,False,No,Mailed check,True,19.3,False,False,Month-to-month,1,False,True
+True,False,No,Bank transfer (automatic),True,25.0,False,False,Two year,13,True,False
+False,False,Fiber optic,Electronic check,False,79.55,False,False,Month-to-month,1,False,True
+True,False,Fiber optic,Electronic check,False,79.4,False,False,Month-to-month,55,True,False
+False,False,Fiber optic,Electronic check,True,104.4,True,True,Month-to-month,10,False,True
+True,True,Fiber optic,Electronic check,True,108.9,True,True,Month-to-month,34,True,False
+True,False,Fiber optic,Electronic check,False,75.0,False,False,Month-to-month,8,False,True
+True,False,Fiber optic,Electronic check,False,100.85,True,True,Month-to-month,34,False,False
+True,True,Fiber optic,Electronic check,True,90.6,False,False,Month-to-month,1,False,True
+True,True,Fiber optic,Electronic check,True,84.1,True,False,Month-to-month,36,False,True
+True,False,DSL,Electronic check,True,35.15,False,False,Month-to-month,32,True,False
+True,False,Fiber optic,Electronic check,True,104.1,True,True,Month-to-month,47,False,False
+False,False,DSL,Credit card (automatic),False,62.05,True,True,One year,40,False,False
+True,True,DSL,Credit card (automatic),False,55.55,True,True,Month-to-month,43,False,True
+False,False,Fiber optic,Electronic check,True,85.95,True,False,Month-to-month,13,False,False
+True,False,Fiber optic,Electronic check,True,100.3,True,False,One year,68,False,False
+True,False,No,Mailed check,True,19.4,False,False,Month-to-month,61,True,True
+False,False,DSL,Electronic check,False,30.5,False,False,Month-to-month,4,False,False
+False,False,Fiber optic,Credit card (automatic),False,74.9,False,False,Month-to-month,2,False,True
+True,True,Fiber optic,Electronic check,True,101.95,True,True,Month-to-month,7,False,True
+True,False,DSL,Credit card (automatic),False,73.7,False,False,One year,69,True,False
+True,False,DSL,Mailed check,True,61.95,False,True,One year,17,True,False
+False,False,No,Mailed check,False,19.65,False,False,Month-to-month,18,False,False
+False,True,Fiber optic,Electronic check,True,104.4,True,True,Month-to-month,41,False,False
+True,False,Fiber optic,Bank transfer (automatic),True,99.5,True,True,One year,59,False,True
+False,False,Fiber optic,Bank transfer (automatic),False,85.45,False,False,Month-to-month,53,False,True
+True,False,Fiber optic,Credit card (automatic),True,108.05,True,True,One year,65,False,False
+False,False,No,Mailed check,False,19.7,False,False,One year,12,False,False
+False,False,Fiber optic,Electronic check,False,76.35,False,True,Month-to-month,1,False,True
+False,True,Fiber optic,Electronic check,True,85.45,False,False,Month-to-month,18,False,True
+False,False,DSL,Credit card (automatic),True,48.8,False,False,Month-to-month,22,False,True
+False,False,No,Credit card (automatic),False,19.6,False,False,Two year,68,False,False
+True,False,Fiber optic,Credit card (automatic),True,90.05,True,True,Month-to-month,34,True,False
+True,False,Fiber optic,Electronic check,True,102.0,True,False,Month-to-month,11,False,True
+True,True,Fiber optic,Mailed check,True,79.6,False,False,Month-to-month,34,True,True
+True,False,Fiber optic,Electronic check,True,84.5,False,True,Month-to-month,5,True,True
+True,False,DSL,Bank transfer (automatic),True,66.5,True,False,One year,41,True,True
+True,False,Fiber optic,Mailed check,False,94.8,True,True,One year,32,True,False
+False,True,Fiber optic,Electronic check,True,81.45,False,False,Month-to-month,27,False,True
+False,False,Fiber optic,Electronic check,True,73.85,False,False,Month-to-month,7,False,True
+False,False,Fiber optic,Electronic check,False,75.35,False,True,Month-to-month,14,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,93.4,True,False,Month-to-month,58,True,True
+True,False,Fiber optic,Electronic check,True,102.45,True,True,Month-to-month,1,True,True
+True,False,Fiber optic,Electronic check,True,109.5,True,True,One year,70,False,True
+False,False,Fiber optic,Bank transfer (automatic),False,101.35,False,True,One year,68,False,False
+False,False,DSL,Mailed check,False,45.85,False,False,Month-to-month,2,False,True
+True,False,DSL,Credit card (automatic),False,53.15,True,True,One year,35,False,False
+True,False,Fiber optic,Electronic check,False,70.0,False,False,Month-to-month,1,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,93.25,True,True,Month-to-month,71,False,False
+False,False,DSL,Mailed check,True,55.75,False,False,Month-to-month,5,False,False
+True,False,DSL,Bank transfer (automatic),False,69.7,True,False,Two year,53,True,False
+False,False,DSL,Mailed check,False,64.85,True,True,One year,15,True,False
+False,False,DSL,Electronic check,True,56.4,False,False,Month-to-month,4,False,False
+True,False,Fiber optic,Credit card (automatic),False,89.9,True,True,Month-to-month,28,False,False
+False,True,Fiber optic,Electronic check,True,83.85,True,False,Month-to-month,9,False,True
+False,False,DSL,Electronic check,False,54.95,False,False,Month-to-month,24,False,False
+False,False,Fiber optic,Electronic check,True,75.3,False,False,Month-to-month,1,False,True
+False,True,Fiber optic,Bank transfer (automatic),False,80.7,False,False,Month-to-month,20,False,False
+False,False,Fiber optic,Electronic check,True,99.8,True,False,Month-to-month,7,False,True
+False,True,Fiber optic,Electronic check,True,79.4,False,False,Month-to-month,3,False,True
+False,True,DSL,Bank transfer (automatic),True,58.55,False,False,Month-to-month,29,False,False
+False,False,DSL,Bank transfer (automatic),False,50.1,False,False,Month-to-month,14,False,False
+True,False,Fiber optic,Bank transfer (automatic),True,90.9,True,False,Month-to-month,14,True,True
+False,False,Fiber optic,Electronic check,True,85.3,True,False,Month-to-month,3,False,True
+False,False,Fiber optic,Bank transfer (automatic),True,103.95,True,True,One year,54,False,True
+False,False,Fiber optic,Credit card (automatic),True,94.65,True,False,Month-to-month,22,False,True
+False,False,Fiber optic,Electronic check,True,88.45,True,False,Month-to-month,4,False,True
+True,False,DSL,Bank transfer (automatic),False,87.95,True,True,Two year,71,False,False
+True,True,Fiber optic,Bank transfer (automatic),True,89.05,True,False,Month-to-month,13,False,True
+False,True,DSL,Credit card (automatic),False,55.0,False,False,Month-to-month,15,False,True
+True,True,Fiber optic,Electronic check,True,86.05,False,False,Month-to-month,1,False,True
+False,True,Fiber optic,Credit card (automatic),False,91.7,False,True,Month-to-month,30,False,True
+True,True,Fiber optic,Electronic check,False,107.05,True,False,Month-to-month,20,False,False
+True,False,Fiber optic,Electronic check,True,75.85,False,False,Month-to-month,3,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,104.1,True,True,Two year,65,True,False
+True,False,DSL,Credit card (automatic),True,79.1,True,True,Two year,71,False,False
+True,True,DSL,Electronic check,True,30.35,False,False,Month-to-month,44,False,True
+False,False,No,Mailed check,True,19.35,False,False,One year,50,False,False
+False,False,Fiber optic,Electronic check,True,79.65,False,False,Month-to-month,1,False,True
+True,False,Fiber optic,Electronic check,True,81.3,False,False,Month-to-month,5,False,True
+False,False,Fiber optic,Electronic check,True,89.55,False,False,One year,41,False,False
+True,False,Fiber optic,Electronic check,True,83.6,True,False,Month-to-month,5,True,True
+False,False,DSL,Electronic check,True,50.05,True,True,One year,31,False,False
+False,False,DSL,Electronic check,True,54.9,False,False,Month-to-month,1,False,True
+False,True,Fiber optic,Electronic check,True,95.45,True,False,Month-to-month,18,False,True
+True,False,No,Credit card (automatic),False,19.85,False,False,Month-to-month,6,True,False
+True,False,DSL,Credit card (automatic),True,45.85,True,True,One year,27,True,False
+False,True,DSL,Electronic check,False,28.45,False,False,Month-to-month,5,False,True
+False,False,No,Bank transfer (automatic),False,20.6,False,False,One year,35,False,False
+True,False,DSL,Bank transfer (automatic),False,60.25,True,True,Two year,69,False,False
+True,False,Fiber optic,Electronic check,True,105.05,True,True,Month-to-month,52,False,True
+True,False,Fiber optic,Credit card (automatic),True,95.65,True,False,Month-to-month,52,False,False
+False,False,Fiber optic,Electronic check,True,109.9,True,True,Two year,72,False,False
+False,False,Fiber optic,Credit card (automatic),False,75.45,False,False,Month-to-month,47,False,False
+False,True,Fiber optic,Credit card (automatic),True,85.8,True,False,Month-to-month,20,False,True
+True,True,Fiber optic,Electronic check,True,108.85,True,True,One year,58,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,94.9,False,True,Two year,38,True,False
+True,False,No,Bank transfer (automatic),True,20.1,False,False,One year,34,True,False
+True,False,DSL,Mailed check,True,49.55,False,True,Month-to-month,18,False,True
+True,False,Fiber optic,Electronic check,True,85.6,False,False,Month-to-month,10,False,True
+True,False,Fiber optic,Electronic check,False,87.45,False,True,Month-to-month,34,True,True
+False,True,Fiber optic,Electronic check,True,104.95,True,True,Month-to-month,50,False,False
+False,False,Fiber optic,Mailed check,True,84.7,False,False,Month-to-month,10,False,True
+False,False,DSL,Credit card (automatic),False,55.6,False,False,One year,35,True,False
+False,False,DSL,Credit card (automatic),True,85.95,True,True,One year,35,False,True
+True,False,Fiber optic,Electronic check,False,87.4,False,True,One year,67,True,True
+True,False,DSL,Mailed check,False,65.85,False,True,Two year,66,True,False
+False,True,Fiber optic,Electronic check,True,76.45,False,False,Month-to-month,1,False,True
+False,False,No,Mailed check,True,19.3,False,False,Month-to-month,1,True,False
+True,False,No,Mailed check,False,19.75,False,False,Two year,47,True,False
+False,False,Fiber optic,Electronic check,False,90.15,False,False,Month-to-month,11,False,True
+False,False,Fiber optic,Electronic check,False,75.15,False,False,One year,48,False,False
+False,False,Fiber optic,Electronic check,True,74.25,False,False,Month-to-month,3,False,True
+False,False,Fiber optic,Electronic check,True,103.1,True,True,One year,47,False,False
+False,True,Fiber optic,Electronic check,True,85.25,True,False,Month-to-month,27,False,True
+True,True,DSL,Electronic check,False,46.0,False,False,Month-to-month,1,False,True
+False,False,Fiber optic,Electronic check,False,86.75,False,True,One year,17,False,False
+False,False,DSL,Bank transfer (automatic),True,30.75,False,False,One year,46,False,False
+False,False,Fiber optic,Electronic check,True,95.25,True,True,Two year,57,False,True
+True,False,DSL,Bank transfer (automatic),False,69.7,False,True,One year,48,True,False
+True,False,Fiber optic,Electronic check,True,69.35,False,False,Month-to-month,7,False,True
+False,False,DSL,Bank transfer (automatic),True,86.95,True,True,One year,47,False,False
+True,True,DSL,Bank transfer (automatic),False,45.55,False,True,One year,66,False,False
+True,False,No,Mailed check,False,18.85,False,False,Month-to-month,4,True,False
+False,False,Fiber optic,Electronic check,True,106.3,True,True,Month-to-month,41,False,True
+False,False,DSL,Bank transfer (automatic),True,68.65,True,False,Month-to-month,4,False,True
+True,False,Fiber optic,Electronic check,True,75.5,False,False,Month-to-month,6,False,True
+False,False,Fiber optic,Bank transfer (automatic),False,98.05,True,True,Month-to-month,41,False,False
+True,False,No,Electronic check,False,24.7,False,False,Month-to-month,34,False,False
+True,True,Fiber optic,Credit card (automatic),False,105.35,True,True,Two year,70,False,False
+True,False,Fiber optic,Credit card (automatic),True,99.05,False,False,Two year,65,True,False
+True,False,No,Credit card (automatic),False,20.0,False,False,Two year,63,True,False
+False,True,Fiber optic,Bank transfer (automatic),True,74.4,False,False,Month-to-month,22,False,True
+True,False,No,Credit card (automatic),True,20.55,False,False,One year,69,True,False
+True,False,DSL,Electronic check,True,50.9,False,False,Month-to-month,4,True,True
+True,False,DSL,Bank transfer (automatic),True,54.1,True,True,Two year,68,False,False
+True,False,Fiber optic,Credit card (automatic),True,89.45,False,True,Month-to-month,16,True,True
+False,False,No,Mailed check,True,24.05,False,False,Month-to-month,1,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,106.1,True,True,One year,53,False,True
+False,False,Fiber optic,Electronic check,True,81.7,False,False,Month-to-month,1,False,True
+True,True,Fiber optic,Electronic check,True,104.25,True,True,Month-to-month,24,False,True
+True,False,No,Credit card (automatic),False,19.45,False,False,Two year,64,False,False
+False,False,DSL,Mailed check,True,45.3,False,False,Month-to-month,4,False,True
+True,False,Fiber optic,Bank transfer (automatic),True,74.05,False,False,Month-to-month,21,True,True
+False,True,DSL,Bank transfer (automatic),False,82.45,True,False,One year,54,False,True
+True,True,Fiber optic,Credit card (automatic),True,94.65,True,False,Month-to-month,67,False,False
+False,False,Fiber optic,Bank transfer (automatic),True,105.65,True,True,Two year,66,False,False
+False,False,DSL,Electronic check,True,66.1,True,False,Month-to-month,29,False,False
+False,False,DSL,Electronic check,False,59.2,True,True,Month-to-month,1,True,True
+True,False,Fiber optic,Electronic check,True,111.55,True,True,One year,51,False,False
+True,False,Fiber optic,Electronic check,True,91.65,False,False,Month-to-month,14,True,True
+False,False,Fiber optic,Electronic check,True,79.9,True,False,Month-to-month,4,False,True
+False,True,Fiber optic,Electronic check,True,92.1,True,True,Month-to-month,8,False,True
+True,True,Fiber optic,Bank transfer (automatic),True,103.15,True,True,One year,65,False,False
+False,False,No,Bank transfer (automatic),True,19.85,False,False,One year,51,False,False
+True,False,No,Bank transfer (automatic),True,20.5,False,False,One year,44,True,False
+True,False,Fiber optic,Electronic check,True,104.65,True,True,Month-to-month,24,False,True
+True,True,Fiber optic,Bank transfer (automatic),True,74.6,False,False,Month-to-month,3,False,False
+False,False,Fiber optic,Electronic check,True,90.55,True,False,Month-to-month,1,False,True
+True,False,Fiber optic,Credit card (automatic),True,99.3,True,True,Month-to-month,24,False,True
+False,False,DSL,Mailed check,False,35.3,False,True,One year,7,False,False
+False,False,Fiber optic,Electronic check,False,83.9,True,True,Month-to-month,6,False,True
+False,False,DSL,Mailed check,True,58.9,False,False,One year,47,False,False
+True,False,Fiber optic,Bank transfer (automatic),False,108.65,True,True,Two year,65,True,True
+False,True,Fiber optic,Electronic check,False,85.2,True,False,Month-to-month,8,False,False
+True,True,Fiber optic,Bank transfer (automatic),True,95.6,True,False,Month-to-month,7,False,True
+False,False,DSL,Credit card (automatic),True,44.05,False,False,Month-to-month,5,False,False
